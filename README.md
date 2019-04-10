@@ -24,7 +24,7 @@ Mac Version:
 
 Windows Version:
 
---Download From Website:  [Shadowsocks for Windows v4.11](http://www.sednax.com/data/ssx-win-v411.zip)
+--Download From Website:  [Shadowsocks for Windows v4.12](http://www.sednax.com/data/ssx-win-v412.zip)
 
 
 ### How to use
